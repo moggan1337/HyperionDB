@@ -14,6 +14,24 @@
 
 ---
 
+## 🎬 Demo
+![HyperionDB Demo](demo.gif)
+
+*Self-driving database with learned optimization*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Learning Dashboard | ![learn](screenshots/learning.png) |
+| Query Advisor | ![advisor](screenshots/advisor.png) |
+| Index Recommendations | ![indexes](screenshots/indexes.png) |
+
+## Visual Description
+Learning dashboard shows ML model training progress and accuracy. Query advisor displays real-time recommendations. Index recommendations show suggested indexes with impact predictions.
+
+---
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
